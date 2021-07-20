@@ -11,7 +11,7 @@ With Magento 2 Social Share, you can display floating sharing buttons on any pag
 * Support 220+ social networks, including Facebook, Google+, Pinterest, Twitter, LinkedIn, YouTube, Instagram, Flickr, and more. 
 * Ability to add sharing buttons on home, CMS, category, product pages, and any other pages of your site
 * Support individual and all sharing services
-* Ability to display the sharing buttons at  "left", or "right" position of the page. Ability to display the sharing buttons "after the social links" block at the product page
+* Ability to display the sharing buttons at  "left", or "right" position of the page. Ability to display the sharing buttons "after the social links" block on the product page
 * Mobile-friendly
 * Support multiple-stores
 
